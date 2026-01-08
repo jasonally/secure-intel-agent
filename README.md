@@ -20,7 +20,7 @@ By leveraging a local Llama3 instance and a deterministic security layer, this t
 - **Creative/Nuanced Content:** The model is tuned for analytical output, not creative writing.
 
 ## Potential Future Extensions (Roadmap)
-1. **RAG Integration:** Connecting the agent to a local database of historical reports.
+1. **Retrieval-Augmented Generation Integration:** Connecting the agent to a local database of historical reports.
 2. **Hybrid-Cloud Gateway:** Implementing "Differential Privacy" to leverage cloud models for complex tasks while keeping raw data local.
 3. **Automated PDF Export:** Adding a library to generate ready-to-send PDF briefings.
 
